@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
++ I'm a graphic designer and 3D artist that love to learn. 🎨 
++ New to the Code world, I'm currently learning JS, Ruby and Git. 💻 
++ My objectif is to learn to create web and mobile apps. 📱  
+
+#### ➡ Find my art works on my insta **[@zyaansart](https://www.instagram.com/zyaansart/)** 🖌️
 
 <!--
 **EkkiiH/EkkiiH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
