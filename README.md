@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-+ I'm a graphic designer and 3D artist that love to learn. 🎨 
-+ New to the Code world, I'm currently learning JS, Ruby and Git. 💻 
++ I am a graphic designer and a 3D artist who loves to learn. 🎨 
++ New to the Code world, I'm currently learning JS, Ruby and also Git. 💻 
 + My objectif is to learn to create web and mobile apps. 📱  
 
 #### ➡ Find my art works on my insta **[@zyaansart](https://www.instagram.com/zyaansart/)** 🖌️
