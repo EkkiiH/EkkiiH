@@ -1,9 +1,9 @@
 ## Hey there! 👋
 ### About me
-#### 🎨 Art director in 3D and graphic design, always eager to learn and grow.
-#### 💻 On a journey to master JS, Ruby, and Git - aiming to create web, mobile apps, and video games.
-#### 📱  Objective: Level up in app and game development.
-#### 🎮 Reach out to chat about video games and the exciting world of game development!
++ 🎨 Art director in 3D and graphic design, always eager to learn and grow.
++ 💻 On a journey to master JS, Ruby, and Git - aiming to create web, mobile apps, and video games.
++ 📱  Objective: Level up in app and game development.
++ 🎮 Reach out to chat about video games and the exciting world of game development!
 
 🖌️ Explore my artwork on [Instagram](https://www.instagram.com/zyaansart/). Let's connect!
 
